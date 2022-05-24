@@ -1,0 +1,40 @@
+<?xml/>
+<gpx>
+  <metadata>
+  </metadata>
+  <trk>
+    <name> </name>
+    <src> </src>
+    <link />
+    <extensions>
+
+    </extensions>
+    <trkseg>
+
+      <trkpt lat="60.150322" lon="24.667475">
+        <ele>30</ele>
+        <time>2018-07-12T07:15:14.000Z</time>
+        <extensions>
+          <geotracker:meta c="35.2" s="0.5" />
+        </extensions>
+      </trkpt>
+
+      <trkpt lat="60.150414" lon="24.66744">
+        <ele>35</ele>
+        <time>2018-07-12T07:15:19.000Z</time>
+        <extensions>
+          <geotracker:meta c="35.2" s="0.5" />
+        </extensions>
+      </trkpt>
+
+      <trkpt lat="60.150501" lon="24.667376">
+        <ele>33</ele>
+        <time>2018-07-12T07:15:27.000Z</time>
+        <extensions>
+          <geotracker:meta c="35.2" s="0.5" />
+        </extensions>
+      </trkpt>
+
+    </trkseg>
+  </trk>
+</gpx>
