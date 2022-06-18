@@ -368,7 +368,7 @@ class Route:
             s = 0
             for child in root[1][4]:
                 dt = child[1].text.replace('T', ' ')
-                csv_txt += str(dt[:len(dt) - 5]) + ';' + child.attrib['lat'] + ';' + child.attrib['lon'] + ';'
+                csv_txt += str(dt[:19]) + ';' + child.attrib['lat'] + ';' + child.attrib['lon'] + ';'
 
                 dt = dt[11:19].split(':')
                 t2 = int(dt[0]) * 3600 + int(dt[1]) * 60 + int(dt[2])
